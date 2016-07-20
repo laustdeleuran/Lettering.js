@@ -1,4 +1,6 @@
 
+# Lettering.JS for ES6
+
 ES6 version of [Dave Rupert's Lettering.JS](https://github.com/davatron5000/Lettering.js) ported by [Laust Johan Deleuran](http://ljd.dk).
 
 ---
